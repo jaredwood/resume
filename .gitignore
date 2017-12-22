@@ -1,2 +1,7 @@
 ._Thumbs.db
 Thumbs.db
+*.aux
+*.dvi
+*.log
+*.ps
+*.out
